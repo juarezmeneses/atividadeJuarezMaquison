@@ -148,7 +148,7 @@ public class Jogo {
 
 			}
 			int pessoa = InformaPessoa(); 
-			while( pessoa > 6 || pessoa < 0){ 
+			while( pessoa > 6 || pessoa <= 0){ 
 				System.out.println("Opcao invalida.Tente novamente");
 				pessoa = InformaPessoa();
 
