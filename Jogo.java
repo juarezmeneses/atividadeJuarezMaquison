@@ -33,7 +33,7 @@ public class Jogo {
 		armas.add("faca");
 		armas.add("corda");
 		armas.add("castical");
-		armas.add("revolver");
+		armas.add("pistola");
 		armas.add("bazuca");
 		this.pessoas = new ArrayList<String>();
 		this.pessoas.add("Capitao Mostarda");
